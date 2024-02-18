@@ -5,7 +5,7 @@
 
 ## 网页GitHub地址如下：（若加载较慢建议刷新后耐心等待一会~）
 
-https://jiang-lijun.github.io/js_table/
+https://zhiyuanda.github.io/js_table/
 
 ## 主要功能：
 
